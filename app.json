@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "homeWork2",
-    "slug": "homeWork2",
+    "name": "first-project",
+    "slug": "first-project",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
